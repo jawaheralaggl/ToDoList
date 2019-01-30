@@ -9,6 +9,29 @@ This iOS app is developed as a guided project in the Everyone can code iBooks tu
 
 # Topics covered
 
+- MVC (Model, View, Controller) Design pattern
+
+- File Manager / Data persistance
+
+- Interface Builder
+
+- Custom classes
+
+- Custom Table cells
+
+- Segues
+
+- UISearchController
+
+- UITableViewController
+
+- NavigationController
+
+- Navigation Bar action items
+
+- DateFormatter
+
+
 # Stretch goals
 Some features included are not part of the guided project, but are added as stretch goals. Stretch goals apply learned knowledge to accomplish and are completed unassisted. Stretch goals may either be suggested by the teaching instructor or self imposed. Strecth goals / features implemented (if any) will be listed here.
 
