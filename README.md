@@ -23,7 +23,10 @@ Before I tout those, here are the things the initial app didn't do, that it shou
 
 - Pass all data from one view controller to the other via Segue
 
-* And here's is the list of features added to the app, not part of the guided project:
+---
+
+And here's is the list of features added to the app, not part of the guided project:
+
 - Add a Search controller to search the List (suggested)
 
 - Detect text entry in the UITextView using the UITextViewDelegate protocol (self imposed)
