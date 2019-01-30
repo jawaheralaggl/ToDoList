@@ -120,7 +120,7 @@ class ToDoTableViewController: UITableViewController, UISearchResultsUpdating, U
     }
     
     override func tableView(_ tableView: UITableView, commit
-        editingStyle: UITableViewCellEditingStyle, forRowAt indexPath:
+        editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath:
         IndexPath) {
         if editingStyle == .delete {
             todos.remove(at: indexPath.row)
