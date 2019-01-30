@@ -5,7 +5,7 @@ To Do List
 App Development with Swift
 
 # Education supplier
-This iOS app is developed as a guided project in the Everyone can code iBooks tutorial series, "App Development with Swift" provided by Apple.
+This iOS app is developed as a guided project from the iBook "App Development with Swift" which forms part of the "Everyone can code" iBooks tutorial series, authored by Apple.
 
 # Topics / milestones
 
