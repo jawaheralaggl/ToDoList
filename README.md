@@ -31,6 +31,8 @@ This iOS app is developed as a guided project from the iBook "App Development wi
 
 - DateFormatter
 
+- Git / Github
+
 
 # Stretch goals
 Some features included are not part of the guided project, but are added as stretch goals. Stretch goals apply learned knowledge to accomplish and are completed unassisted. Stretch goals may either be suggested by the teaching instructor or self imposed. Strecth goals / features implemented (if any) will be listed here.
@@ -53,6 +55,8 @@ And here's is the list of features added to the app, not part of the guided proj
 - Add a Search controller to search the List (suggested)
 
 - Detect (and respond to) text entry in the UITextView using the UITextViewDelegate protocol (self imposed)
+
+- Source control with git (local) / github (remote) (self imposed)
 
 # Completed
 June, 2018 (initial version)
