@@ -5,7 +5,7 @@ To Do List
 App Development with Swift
 
 # Education supplier
-This iOS app is developed as a guided project in the Everyone can code iBooks tutorial series, "App Development with Swift" provided by Apple
+This iOS app is developed as a guided project in the Everyone can code iBooks tutorial series, "App Development with Swift" provided by Apple.
 
 # Topics covered
 
@@ -29,7 +29,7 @@ And here's is the list of features added to the app, not part of the guided proj
 
 - Add a Search controller to search the List (suggested)
 
-- Detect text entry in the UITextView using the UITextViewDelegate protocol (self imposed)
+- Detect (and respond to) text entry in the UITextView using the UITextViewDelegate protocol (self imposed)
 
 # Completed
 June, 2018 (initial version)
