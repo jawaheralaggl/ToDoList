@@ -7,7 +7,7 @@ App Development with Swift
 # Education supplier
 This iOS app is developed as a guided project in the Everyone can code iBooks tutorial series, "App Development with Swift" provided by Apple.
 
-# Topics covered
+# Topics / milestones
 
 - MVC (Model, View, Controller) Design pattern
 
