@@ -60,8 +60,7 @@ And here's is the list of features added to the app, not part of the guided proj
 
 # Completed
 June, 2018 (initial version)
-
-January, 2019 (current version)
+</br>January, 2019 (current version)
 
 
 
