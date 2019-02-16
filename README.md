@@ -62,8 +62,10 @@ And here's is the list of features added to the app, not part of the guided proj
 June, 2018 (initial version)</br>
 January, 2019 (current version)
 
-# Deployment Target (iOS version)
-11.4 and higher
+# Deployment information
 
-# Supported Devices
+<strong>Deployment Target (iOS version) </strong>
+11.4 and higher </strong>
+
+<strong>Supported Devices</strong>
 Universal
