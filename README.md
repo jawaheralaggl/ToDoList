@@ -59,8 +59,11 @@ And here's is the list of features added to the app, not part of the guided proj
 - Source control with git (local) / github (remote) (self imposed)
 
 # Completed
-June, 2018 (initial version)
-</br>January, 2019 (current version)
+June, 2018 (initial version)</br>
+January, 2019 (current version)
 
+# Deployment Target (iOS version)
+11.4 and higher
 
-
+# Supported Devices
+Universal
