@@ -64,8 +64,7 @@ January, 2019 (current version)
 
 # Deployment information
 
-<strong>Deployment Target (iOS version) </strong>
-11.4 and higher </strong>
+- <strong>Deployment Target (iOS version): </strong>11.4 and higher
 
-<strong>Supported Devices</strong>
-Universal
+- <strong>Supported Devices: </strong>Universal
+
