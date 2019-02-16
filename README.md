@@ -66,4 +66,5 @@ And here's is the list of features added to the app, not part of the guided proj
 
 - <strong>Deployment Target (iOS version): </strong>11.4 and higher
 - <strong>Supported Devices: </strong>Universal
+- <strong>Optimized for: </strong>iPhone
 
