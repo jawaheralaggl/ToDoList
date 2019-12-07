@@ -1,11 +1,29 @@
 # Application Name
 To Do List
 
+# Objective
+The aim of this app is to allow users to create a ToDo List, where:
+
+- New item created / added (by title)
+
+- Edit item
+
+- Delete item
+
+- Mark item as complete  
+
+- Add additional details, such as Due Date and Notes
+
+- Search All Notes
+
+# Demo
+![Demo](Demo_07122019.gif)
+
 # Course
 App Development with Swift
 
 # Education supplier
-This iOS app is developed as a guided project from the iBook "App Development with Swift" which forms part of the "Everyone can code" iBooks tutorial series, authored by Apple.
+This iOS app project forms part of the iBook "App Development with Swift" which is part of the "Everyone can code" iBooks tutorial series, authored by Apple.
 
 # Topics / milestones
 
