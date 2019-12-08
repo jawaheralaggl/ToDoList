@@ -68,7 +68,7 @@ Before I tout those, here are the things the initial app didn't do, that it shou
 
 ---
 
-And here's is the list of features added to the app, not part of the guided project:
+And here's is the list of features added to the app, not part of the project's oroginal requirements:
 
 - Add a Search controller to search the List (suggested)
 
